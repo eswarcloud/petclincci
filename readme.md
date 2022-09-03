@@ -5,7 +5,11 @@ Deploy this sample application to Pivotal Web Services:
     <img src="https://push-to.cfapps.io/ui/assets/images/Push-to-Pivotal-Light-with-Shadow.svg" width="180" alt="Push" align="center">
 </a>
 
+<<<<<<< HEAD
 ## Understanding the Spring Petclinic application with a few diagrams objects
+=======
+## Understanding the Spring Petclinic application with a few diagrams in petclinic
+>>>>>>> 774c440399dbdbbef61ec96f983155c8cac93951
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
 ## Running petclinic locally
